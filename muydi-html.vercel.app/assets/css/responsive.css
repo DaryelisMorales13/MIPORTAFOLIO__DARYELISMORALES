@@ -1,0 +1,35 @@
+@media only screen and (max-width : 2500px) {
+	.page-wrapper{
+		overflow:hidden;
+	}
+	
+}
+@media only screen and (max-width : 991px) {
+	.atf-nav .menu-item-has-children i{display:none;}
+	.atf-slider .atf-parallax-slider .atf-slider-content h1{
+		font-size:60px;
+	}
+	.mt-lg-40{
+		margin-top:40px;
+	}
+	.mb-lg-40{
+		margin-bottom:40px;
+	}
+
+}
+@media only screen and (max-width: 576px) {
+	.atf-slider .swiper-control-btn .swiper-nav-control{
+		display:none;
+	}
+	.comments-area .children{padding-left:20px;}
+
+}
+@media screen and (max-width: 480px){
+	.atf-slider .atf-parallax-slider .atf-slider-content h1{
+		font-size:40px;
+	}
+}
+@media screen and (min-width: 0px) and (max-width: 320px){
+
+
+}
